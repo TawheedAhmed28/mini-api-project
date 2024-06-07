@@ -1,3 +1,9 @@
+* {
+  background-color: rgb(252, 218, 223);
+  font-family: "Balsamiq Sans";
+  color: rgb(134, 72, 146);
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -39,4 +45,45 @@
 
 .read-the-docs {
   color: #888;
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+.fruit-name {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#red-for-F {
+  color: rgb(255, 91, 91);
+}
+
+#orange-for-r {
+  color: rgb(255, 119, 28);
+}
+
+#yellow-for-u {
+  color: rgb(255, 187, 0);
+}
+
+#green-for-i {
+  color: rgb(79, 153, 10);
+}
+
+#blue-for-t {
+  color: rgb(0, 153, 255);
+}
+
+#purple-for-s {
+  color: rgb(196, 13, 196);
+}
+
+button {
+  background-color: pink;
 }
